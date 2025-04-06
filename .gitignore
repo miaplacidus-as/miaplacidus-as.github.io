@@ -1,0 +1,16 @@
+# Dependecies
+/**/node_modules/
+
+# IDE
+/.idea/
+/.vscode/
+
+/dist/
+/.git/
+
+# Misc
+/**/_backstage
+/**/package-lock.json
+/**/Thumbs.db
+/**/*.DS_Store
+/**/debug.log
